@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "poppler",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AthanasiusOfAlex/Poppler.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "5e2d6e9c9a0af493e599508ac800d79ce3ed23c0"
+      }
+    }
+  ],
+  "version" : 2
+}
